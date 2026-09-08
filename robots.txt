@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leroybalireset.github.io/archive-xjls3d/sitemap.xml
